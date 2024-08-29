@@ -891,3 +891,5 @@ $env.config = {
         }
     ]
 }
+
+alias ll = ls -l
